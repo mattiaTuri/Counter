@@ -11,3 +11,7 @@ Per l'utilizzo di questo progetto è necessario avere un programma adatto alla p
 VERSIONE
 
 1.0
+
+LIVE PREVIEW
+
+https://numbercounterjs.netlify.app/
